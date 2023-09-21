@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.001.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTSC_MinimizToggler", "MSTSC_MinimizToggler.csproj", "{88177477-9225-4F95-8E08-C2DCC8C5985C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88177477-9225-4F95-8E08-C2DCC8C5985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88177477-9225-4F95-8E08-C2DCC8C5985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88177477-9225-4F95-8E08-C2DCC8C5985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88177477-9225-4F95-8E08-C2DCC8C5985C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95AF9E2D-EB71-401B-A8EB-BD08BD91E182}
+	EndGlobalSection
+EndGlobal
